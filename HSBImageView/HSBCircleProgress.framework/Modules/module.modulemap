@@ -1,0 +1,6 @@
+framework module HSBCircleProgress {
+  umbrella header "HSBCircleProgress.h"
+
+  export *
+  module * { export * }
+}
